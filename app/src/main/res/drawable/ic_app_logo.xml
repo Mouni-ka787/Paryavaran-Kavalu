@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer blue circle -->
+    <path
+        android:pathData="M54,8 A46,46 0,1,1 53.9,8"
+        android:strokeColor="#1976D2"
+        android:strokeWidth="3.5"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round" />
+
+    <!-- Map base -->
+    <path
+        android:pathData="M22,62 L86,62 L80,82 L28,82 Z"
+        android:fillColor="#BDBDBD" />
+
+    <path
+        android:pathData="M36,62 L42,82"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000" />
+
+    <path
+        android:pathData="M54,62 L54,82"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000" />
+
+    <path
+        android:pathData="M70,62 L66,82"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000" />
+
+    <!-- River -->
+    <path
+        android:pathData="M22,68 Q35,65 44,71 Q53,77 62,68"
+        android:strokeColor="#42A5F5"
+        android:strokeWidth="3"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round" />
+
+    <!-- Green patch -->
+    <path
+        android:pathData="M62,62 L86,62 L82,74 L64,74 Z"
+        android:fillColor="#66BB6A"
+        android:fillAlpha="0.6" />
+
+    <!-- Red pin shadow -->
+    <path
+        android:pathData="M50,64 A4,2.5 0,1,1 58,64 A4,2.5 0,1,1 50,64"
+        android:fillColor="#E53935" />
+
+    <!-- Green location pin -->
+    <path
+        android:pathData="M54,18
+            C44,18 36,26 36,36
+            C36,50 54,64 54,64
+            C54,64 72,50 72,36
+            C72,26 64,18 54,18 Z"
+        android:fillColor="#43A047" />
+
+    <!-- White inner circle -->
+    <path
+        android:pathData="M43,36 A11,11 0,1,1 65,36 A11,11 0,1,1 43,36"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Person head -->
+    <path
+        android:pathData="M47.8,29.5 A2.2,2.2 0,1,1 52.2,29.5 A2.2,2.2 0,1,1 47.8,29.5"
+        android:fillColor="#1B5E20" />
+
+    <!-- Body -->
+    <path
+        android:pathData="M50,32 L50,39"
+        android:strokeColor="#1B5E20"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round" />
+
+    <!-- Arm -->
+    <path
+        android:pathData="M50,34 L55,33"
+        android:strokeColor="#1B5E20"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round" />
+
+    <!-- Legs -->
+    <path
+        android:pathData="M50,39 L48,43"
+        android:strokeColor="#1B5E20"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M50,39 L52,43"
+        android:strokeColor="#1B5E20"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round" />
+
+    <!-- Bin -->
+    <path
+        android:pathData="M55,34 L58,34 L57.5,42 L55.5,42 Z"
+        android:fillColor="#1B5E20" />
+
+    <!-- Bin lid -->
+    <path
+        android:pathData="M54.5,32.5 L58.5,32.5 L58.5,34 L54.5,34 Z"
+        android:fillColor="#1B5E20" />
+
+    <!-- Leaf -->
+    <path
+        android:pathData="M20,52
+            C14,42 18,28 28,26
+            C22,34 20,44 28,52
+            C25,52 22,52 20,52 Z"
+        android:fillColor="#2E7D32" />
+
+    <path
+        android:pathData="M26,58
+            C18,50 20,36 30,32
+            C26,40 25,50 32,56
+            C30,57 28,58 26,58 Z"
+        android:fillColor="#388E3C" />
+
+</vector>
